@@ -6,7 +6,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aakarshit+Srivastava;Machine+Learning+Expert;Cloud+Architect;Software+Developer;AWS+Solution+Architect;Android+&+Ios+Developer;Web+Development;Emerging+Tech+Researcher;Quantum+Based+Algorithms;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
-    <a href="https://www.youtube.com/channel/UCOwUT-NY95FOFhiEUgYqpmQ"><img src="https://static.vecteezy.com/system/resources/previews/018/930/572/original/youtube-logo-youtube-icon-transparent-free-png.png" width="47" height="50" style="margin-right: 10px;" /></a>
+    <a href="https://www.youtube.com/channel/UCOwUT-NY95FOFhiEUgYqpmQ"><img src="https://static.vecteezy.com/system/resources/previews/018/930/572/original/youtube-logo-youtube-icon-transparent-free-png.png" width="47" height="40" style="margin-right: 10px;" /></a>
     <a href="https://www.linkedin.com/in/aakarshit-srivastava-b8252922a/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:shubh26002@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/ArkS0001"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
