@@ -14,21 +14,20 @@
         <br />
         <p>
             <strong>
-                I am a Passionate about Artificial Intelligence and Machine Learning. With hands-on experience in Android development, Frontend deployment as well, Proficient in algorithm design, data structures, and coding challenges. Dedicated problem solver with a 5-star coder
-rating in Python, C, and general problem solving, recognized for solving over 250
-LeetCode questions.
+               As a seasoned machine learning expert, cloud architect, and competitive coder, I've honed my skills across multiple domains, establishing myself as a versatile force in the tech world. With a wealth of experience, I bring a unique blend of expertise to every project I undertake.
 
-Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter, Flask, NLTk, Dash and Pandas.
+Proficient in languages such as Python, Java, C#, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter,Django,Flask, NLTk, Dash and Pandas.
+My proficiency in machine learning allows me to unravel complex data patterns and derive valuable insights, while my prowess as a cloud architect ensures scalable, efficient, and secure solutions. As a competitive coder, I thrive in high-pressure environments, leveraging my problem-solving skills to deliver optimal solutions under tight deadlines.
 
- Committed to continuous learning and innovation for effective problem solving. I'm committed to pushing boundaries, embracing new opportunities, and delivering impactful solutions that merge technology with creativity. I stay at the forefront of the field, while my holistic skill set ensures the success of every project.
+ With a comprehensive skill set and a relentless drive for excellence, I'm committed to pushing the boundaries of innovation, whether it's designing cutting-edge machine learning models, architecting robust cloud solutions, or excelling in competitive coding competitions.
             </strong>
         </p>
         <h1></h1>
         <ul>
             <li>🔭 <b>I’m currently working on</b>:AWS services like Athena and Sagemaker,Blockchain contracts and Few Research projects </li>
-            <li>🌱 <b>I’m currently learning</b>:Data Analytics using AWS</li>
-            <li>💬 <b>Ask me about</b>: Web Development, Android App Developments and Competetive Programming.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>🌱 <b>I’m currently learning</b>:Cloud Simulation</li>
+            <li>💬 <b>Ask me about</b>: Machine Learning Algorithms & Neural Networking, Software Development Operations and Competetive Programming.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆,or just raise a issue and join us in one of the discussions.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship & Job opportunities and Source Research Projects.
             </li>
             <!-- <li>👨‍💻 </li>
@@ -38,10 +37,10 @@ Proficient in languages such as Python, Java, C, C++, Kotlin and Dart empowers m
     </div>
 ```py
 About Me = [
-    "I'm a student with a passion for coding and a journey of continuous learning.",
-    "Proficient in languages like Python,C/C++,Java,Kotlin,Dart as well as web technologies including HTML, CSS, Bootstrap, React and JS.",
-    "Dedicated to exploring new concepts in coding every day.",
-    "My world is woven with lines of code, and I'm on a quest to turn ideas into reality. 💻✨"
+    "I'm a student with a passion for Artificial Intelligence(Automation & Robotics) and a journey of steep continuous learning.",
+    "Proficient in languages like Python,Java,C#/C++,Kotlin,Dart,R; as well as web technologies including Full stack and MERN.",
+    "Dedicated to exploring new concepts & Algorithm every day.",
+    "In a realm where every byte counts and speed reigns supreme, I'm the code whisperer, crafting efficiency into existence. 💻✨"
 ]
 ```
 <div align="center">
