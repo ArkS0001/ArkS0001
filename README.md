@@ -116,7 +116,7 @@ About Me = [
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=dark&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=highcontrast&count_private=true)](https://git.io/streak-stats)
 
 <hr>
 
