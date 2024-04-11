@@ -112,15 +112,15 @@ About Me = [
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![Aakarshit's Stats](https://github-readme-stats.vercel.app/api?username=ArkS0001&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Aakarshit's Stats](https://github-readme-stats.vercel.app/api?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=highcontrast&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)](https://git.io/streak-stats)
 
 <hr>
 
- ![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=dark&show_icons=true&hide_border=false&layout=compact&count_private=true)
+ ![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
 <hr>
 </div>
