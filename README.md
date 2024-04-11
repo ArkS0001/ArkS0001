@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-        <a href="https://github.com/ArkS0001"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/6c38ef40-b7dd-4c87-bc75-89d652689fc3"></a>
+        <a href="https://github.com/ArkS0001"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/1dd49ff6-ebbf-4164-b25a-1d9e9e1fe2ee"></a>
     </div>
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aakarshit+Srivastava;Machine+Learning+Expert;Cloud+Architect;Software+Developer;AWS+Solution+Architect;Android+Ios+Developer;Web+Development;Emerging+Tech+Researcher;Quantum+Based+Algorithms;" alt="Typing SVG" /></a>
