@@ -1,8 +1,7 @@
 <div>
  <!-- ayush image at at top -->
     <div align="center">
-        <a href="https://github.com/ArkS0001"><img src="![WhatsApp Image 2024-04-09 at 1 20 58 PM](https://github.com/ArkS0001/ArkS0001/assets/113760964/e7ffec57-da6e-483a-b72f-2620b83d3a15)
-"></a>
+        <a href="https://github.com/ArkS0001"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/6c38ef40-b7dd-4c87-bc75-89d652689fc3"></a>
     </div>
     <!-- typing effect -->
     <div align="center">
