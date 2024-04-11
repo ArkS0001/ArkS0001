@@ -84,7 +84,7 @@ About Me = [
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/e900a288-5580-406d-953d-7984a6f6b9da" title="Google Cloud" alt="Google Cloud"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://en.wikipedia.org/wiki/File:Salesforce.com_logo.svg" title="salesforce" alt="salesforce"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/68ba40a8-2266-413a-b06c-c091cb738bef" title="salesforce" alt="salesforce"  height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
