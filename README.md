@@ -39,13 +39,13 @@ My proficiency in machine learning allows me to unravel complex data patterns an
 About Me = [
     "I'm a student with a passion for Artificial Intelligence(Automation & Robotics) and a journey of steep continuous learning.",
     "Proficient in languages like Python,Java,C#/C++,Kotlin,Dart,R; as well as web technologies including Full stack and MERN.",
-    "Dedicated to exploring new concepts & Algorithm every day.",
+    "Dedicated to daily exploration, we uncover new algorithms and concepts, forging ahead with curiosity.",
     "In a realm where every byte counts and speed reigns supreme, I'm the code whisperer, crafting efficiency into existence. 💻✨"
 ]
 ```
 <div align="center">
-    <h1>Skill Set 💪</h1>
-    <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
+    <h1>Skills Set 💪</h1>
+    <h4>Here are some of the major technologies I've used or worked with.</h4>
 </div>
 
 <div align="center">
