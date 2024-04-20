@@ -1,6 +1,8 @@
 <div>
-    <div align="center">
+    <div align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&duration=900&pause=1&color=106FF7&random=false&width=435&lines=Aakarshit+Srivastava;Ark-S" alt="Typing SVG" /></a>
+    </div>
+    <div align="center">
         <a href="https://github.com/ArkS0001"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c9238858-3828-49f2-83f5-21be90f59a67"></a>
     </div>
     <div align="center">
