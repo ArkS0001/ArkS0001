@@ -106,6 +106,7 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" title="Eclipse" alt="eclipse" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/dc017b83-20fc-4680-8c70-bffa06e19fcb" title="Android Studio" alt="Android Studio" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/8aa4ac73-748f-4f59-a89c-a1061b8b5917" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
