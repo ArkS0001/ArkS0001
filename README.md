@@ -17,7 +17,7 @@
         <br />
         <p>
             <strong>
-               As a seasoned machine learning expert, cloud architect, and competitive coder, I've honed my skills across multiple domains, establishing myself as a versatile force in the tech world. With a wealth of experience, I bring a unique blend of expertise to every project I undertake.
+               As a seasoned machine learning expert, cloud architect, and competitive coder, I've honed my skills across multiple domains, establishing myself as a versatile force in the tech world. With a wealth of Knowledge & Experience, I bring a unique blend of expertise to every project I undertake.
 
 Proficient in languages such as Python, Java, C#, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter,Django,Flask, NLTk, Dash and Pandas.
 My proficiency in machine learning allows me to unravel complex data patterns and derive valuable insights, while my prowess as a cloud architect ensures scalable, efficient, and secure solutions. As a competitive coder, I thrive in high-pressure environments, leveraging my problem-solving skills to deliver optimal solutions under tight deadlines.
