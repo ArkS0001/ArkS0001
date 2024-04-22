@@ -135,6 +135,7 @@ About Me = [
  ![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
 <hr>
+
 </div>
 
 ```bash
