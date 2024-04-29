@@ -29,11 +29,11 @@ My proficiency in machine learning allows me to unravel complex data patterns an
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>:AWS services like Athena and Sagemaker,Blockchain contracts and Few Research projects </li>
-            <li>🌱 <b>I’m currently learning</b>:Cloud Simulation</li>
+            <li>🔭🚀 <b>I’m currently working on</b>: AWS services like Athena and Sagemaker,Blockchain contracts and Few Research projects </li>
+            <li>🌱🧠 <b>I’m currently learning</b>: Cloud Simulation</li>
             <li>💬 <b>Ask me about</b>: Machine Learning Algorithms & Neural Networking, Software Development Operations and Competitive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆,or just raise a issue and join us in one of the discussions.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship & Job opportunities and Research Projects.
+            <li>⚡🐱‍🏍 <b>I’m currently open for</b>: A new Internship & Job opportunities and Research Projects.
             </li>
             <!-- <li>👨‍💻 </li>
             <li>⚡  -->
