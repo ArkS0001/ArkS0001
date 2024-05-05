@@ -49,8 +49,8 @@ About Me = [
 ]
 ```
 <div align="center">
-    <h1>Skills Set 💪</h1>
-    <h4>Here are some of the major technologies I've used or worked with.</h4>
+    <h1>🧠Skills Set 🦾🤖</h1>
+    <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
 </div>
 
 <div align="center">
