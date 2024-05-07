@@ -15,6 +15,7 @@
     <a href="mailto:shubh26002@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/ArkS0001"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
 </div>
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="left">
         <br />
         <p>
@@ -27,7 +28,7 @@ My proficiency in machine learning allows me to unravel complex data patterns an
  With a comprehensive skill set and a relentless drive for excellence, I'm committed to pushing the boundaries of innovation, whether it's designing cutting-edge machine learning models, architecting robust cloud solutions, or excelling in competitive coding competitions.
             </strong>
         </p>
-        <h1></h1>
+        <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
         <ul>
             <li>🔭🚀 <b>I’m currently working on</b>: AWS services like Athena and Sagemaker,Blockchain contracts and Few Research projects </li>
             <li>🌱🧠 <b>I’m currently learning</b>: Cloud Simulation,CyberSecurity & Quantum Computing</li>
@@ -52,7 +53,7 @@ About Me = [
     <h1>🧠Skills Set 🦾🤖</h1>
     <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
 </div>
-
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
     <h3><b>Frontend Development</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
@@ -120,6 +121,7 @@ About Me = [
     <br><br>
 </div>
 </div>
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <hr>
 
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
