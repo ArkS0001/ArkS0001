@@ -117,6 +117,13 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/224e4ba9-7599-4ea1-b696-009818138def" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
+</div>
+<div align="center">
+    <h3><b>Virtualization</b></h3>
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/0cc386e4-f405-43ed-a323-ce686e5b45f8" title="Linux" alt="Linux" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f0641008-3322-488a-a9f2-3e5613039606" title="Kali" alt="Kali" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/a0da5195-b52c-4696-86df-7a6921596431" title="MetaSploit" alt="MetaSploit" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/22132f90-c38e-4627-9d0f-54695602399d" title="Parrot OS" alt="Parrot OS" width="40" height="40"/></a></code>&nbsp;
     <br><br>
     <br><br>
 </div>
