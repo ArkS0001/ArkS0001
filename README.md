@@ -150,6 +150,8 @@ About Me = [
 
 ![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ```bash
 Copyright (c) 2022-2032 Aakarshit Srivastava and the PerfectCube Team
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
