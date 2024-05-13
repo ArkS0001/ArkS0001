@@ -146,7 +146,7 @@ About Me = [
 
 <hr>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX)](https://leetcode.com/XxArksxX/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)
 
 <hr>
 
