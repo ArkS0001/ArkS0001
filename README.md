@@ -146,6 +146,10 @@ About Me = [
 
 <hr>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX)](https://leetcode.com/XxArksxX/)
+
+<hr>
+
 </div>
 
 ![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
