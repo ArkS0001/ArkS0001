@@ -146,6 +146,10 @@ About Me = [
 
 <hr>
 
+[![Aakarshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=react-dark)]()
+
+<hr>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)
 
 <hr>
