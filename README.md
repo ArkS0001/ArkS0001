@@ -117,7 +117,7 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/224e4ba9-7599-4ea1-b696-009818138def" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/dfdc7499-0cdf-49c7-9082-b955006d632e" title="Terraform" alt="Terraform" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f1709295-086c-4f14-a06b-a624f44dec62" title="Terraform" alt="Terraform" width="40" height="40"/></a></code>&nbsp;
 </div>
 <div align="center">
     <h3><b>Virtualization</b></h3>
