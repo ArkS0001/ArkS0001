@@ -147,7 +147,7 @@ About Me = [
 
 <hr>
 
-[![Aakarshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=react)]()
+[![Aakarshit's github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=react-dark)]()
 
 <hr>
 
