@@ -159,6 +159,10 @@ About Me = [
 
 ![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
 
+<p align="left">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ```bash
