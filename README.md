@@ -127,6 +127,10 @@ About Me = [
     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f1709295-086c-4f14-a06b-a624f44dec62" title="Terraform" alt="Terraform" width="40" height="40"/></a></code>&nbsp;
 </div>
 <div align="center">
+    <h3><b>Networking</b></h3>
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/54c83453-be24-4078-8330-db71fac5a0fb" title="WireShark" alt="WireShark" width="90" height="40"/></a></code>&nbsp;
+</div>
+<div align="center">
     <h3><b>Virtualization</b></h3>
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/0cc386e4-f405-43ed-a323-ce686e5b45f8" title="Linux" alt="Linux" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/f0641008-3322-488a-a9f2-3e5613039606" title="Kali" alt="Kali" width="40" height="40"/></a></code>&nbsp;
