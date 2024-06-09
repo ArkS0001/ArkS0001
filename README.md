@@ -170,6 +170,8 @@ About Me = [
 
 ![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
 
+[![](https://visitcount.itsvg.in/api?id=ArkS0001&label=Visitors&icon=0&pretty=true)]()
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
 </p>
