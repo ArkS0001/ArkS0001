@@ -50,7 +50,7 @@ About Me = [
 ]
 ```
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+     <a href="https://www.linkedin.com/in/aakarshit-srivastava-b8252922a"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
     <h1>🧠Skills Set 🦾🤖</h1>
     <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
 </div>
