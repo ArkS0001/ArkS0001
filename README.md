@@ -42,7 +42,7 @@ My proficiency in machine learning allows me to unravel complex data patterns an
         <br />
     </div>
 <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### 📕 &nbsp;Publications
+### 📝 &nbsp;Publications📚
 <ul>
   <li><a href="https://medium.com/@arks0001/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a></li>
   <li><a href="https://medium.com/@arks0001/understanding-quantum-processing-units-qpus-the-future-of-computing-cb459a4d5d75">Understanding Quantum Processing Units (QPUs): The Future of Computing</a></li>
