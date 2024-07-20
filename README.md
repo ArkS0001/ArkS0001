@@ -48,6 +48,7 @@ My proficiency in machine learning allows me to unravel complex data patterns an
   <li><a href="https://medium.com/@arks0001/understanding-quantum-processing-units-qpus-the-future-of-computing-cb459a4d5d75">Understanding Quantum Processing Units (QPUs): The Future of Computing</a></li>
    <li><a href="https://medium.com/@arks0001/energy-temperature-performance-trade-off-in-processing-units-cpu-gpu-dpu-tpu-npu-vpu-qpu-cd8eecc33a7f">Balancing Energy Efficiency and Performance in Modern Processing Units: CPU, GPU, DPU, TPU, NPU, VPU, and QPU</a></li>
     <li><a href="https://arks0001.medium.com/comparative-analysis-of-tpus-and-cpus-specialized-efficiency-vs-versatile-performance-79389986a717">Comparative Analysis of TPUs and CPUs: Specialized Efficiency vs. Versatile Performance</a></li>
+    <li><a href="https://medium.com/@arks0001/liquid-neural-networks-real-time-adaptability-and-temporal-processing-excellence-781e2448a1fb">Liquid Neural Networks: Real-Time Adaptability and Temporal Processing Excellence</a></li>
 </ul>
 
 ```py
