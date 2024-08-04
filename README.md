@@ -52,6 +52,7 @@ My proficiency in machine learning allows me to unravel complex data patterns an
     <li><a href="https://medium.com/@arks0001/liquid-neural-networks-real-time-adaptability-and-temporal-processing-excellence-781e2448a1fb">Liquid Neural Networks: Real-Time Adaptability and Temporal Processing Excellence</a></li>
     <li><a href="https://arks0001.medium.com/nuclear-fusion-dynamics-reinforcement-learning-and-llms-for-plasma-stability-optimization-98e0a3173128">Nuclear Fusion Dynamics: Reinforcement Learning and LLMs for Plasma Stability Optimization</a></li>
     <li><a href="https://medium.com/@arks0001/scaling-new-heights-llama-3-1-405-b-and-h100-tensor-gpus-da028f657b3c">Scaling New Heights: LLaMA 3.1 405 B and H100 Tensor GPUs</a></li>
+    <li><a href="https://arks0001.medium.com/exploring-mesop-a-comprehensive-python-web-framework-beyond-streamlit-for-ai-and-ml-applications-78dd91c3d3ae">Exploring Mesop: A Comprehensive Python Web Framework Beyond Streamlit for AI and ML Applications</a></li>
 </ul>
 
 ```py
