@@ -13,6 +13,7 @@
     <a href="https://twitter.com/AakarshitSriva3"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/7eeeffd6-2840-4a89-8c8f-8d11ac6a942d" width="35" height="35" style="margin-right: 10px;" /></a>
     <a href="https://www.linkedin.com/in/aakarshit-srivastava-b8252922a/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:shubh26002@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
+    <a href="https://www.youtube.com/@ArkSriva"><img src="https://github.com/user-attachments/assets/8c7f85d4-8449-4e44-8190-ccc5ca9c4a8d" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/ArkS0001"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
     <a href="https://medium.com/@arks0001"><img src="https://github.com/user-attachments/assets/050cd019-9c69-4730-8441-99658513e892" width="35" height="35" style="margin-right: 10px;" /></a>
 </div>
