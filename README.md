@@ -121,7 +121,6 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/e900a288-5580-406d-953d-7984a6f6b9da" title="Google Cloud" alt="Google Cloud"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/68ba40a8-2266-413a-b06c-c091cb738bef" title="salesforce" alt="salesforce"  height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/0f731d8d-4323-40be-8e68-eba66f1aa486" title="Cloudsim" alt="CloudSim"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/021fa33e-5224-492a-8da2-f71b43341d2e" title="NGINX" alt="NGINX"  height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
@@ -145,6 +144,7 @@ About Me = [
 <div align="center">
     <h3><b>Networking</b></h3>
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/54c83453-be24-4078-8330-db71fac5a0fb" title="WireShark" alt="WireShark" width="90" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/021fa33e-5224-492a-8da2-f71b43341d2e" title="NGINX" alt="NGINX"  height="40"/></a></code>&nbsp;
 </div>
 <div align="center">
     <h3><b>Virtualization</b></h3>
