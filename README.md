@@ -208,5 +208,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <img src="https://github.com/user-attachments/assets/80d9b131-ebe5-428f-98d5-f1c136bd59f6" width="300" height="500">
     <img src="https://github.com/user-attachments/assets/1ac6f68b-ee08-42a5-81c0-ba8efe446025" width="300" height="500">
 </div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ArkS0001.png" alt="TryHackMe Badge">
 
 <a href="https://www.linkedin.com/in/arks0001/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
