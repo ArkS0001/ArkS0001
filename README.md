@@ -36,7 +36,6 @@ My proficiency in machine learning allows me to unravel complex data patterns an
             <li>🌱🧠 <b>I’m currently learning</b>: Cloud Simulation,CyberSecurity & Quantum Computing</li>
             <li>💬 <b>Ask me about</b>: Machine Learning Algorithms & Neural Networking, Software Development Operations and Competitive Programming.</li>
             <li>📫 <b>How to reach me</b>: Follow the links above to connect👆,or just raise a issue and join us in one of the discussions.</li>
-            <li>⚡🐱‍🏍 <b>I’m currently open for</b>: A new Internship & Job opportunities and Research Projects.
             </li>
             <!-- <li>👨‍💻 </li>
             <li>⚡  -->
