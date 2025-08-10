@@ -110,6 +110,17 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" title="Flutter" alt="Flutter" height="40"/></a></code>&nbsp;
 </div>
+<div align="center">
+    <h3><b>Frameworks</b></h3>
+    <code><a href="#" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*44fD_VXcqw2kDWublQLONw.jpeg" title="Langchain" alt="langchain"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph.png" title="Langgraph" alt="langgraph"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSeRdOo-WucXlITj0XdjTKYQch6QQk-ARyfA&s" title="Autogen" alt="autogen"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" title="Flutter" alt="Flutter" height="40"/></a></code>&nbsp;
+</div>
 
 <div align="center">
     <h3><b>Databases</b></h3>
@@ -129,6 +140,10 @@ About Me = [
 
 <div align="center">
     <h3><b>Tools</b></h3>
+        <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/146/983/png-clipart-blender-3d-computer-graphics-logo-filehippo-3d-modeling-blenders-3d-computer-graphics-text-thumbnail.png" title="Blender" alt="blender" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" title="Unreal Engine" alt="unreal engine" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefM0wETwfDZGreDjTOq9hD-UBnbsiFPWNgQ&s" title="JigSpace" alt="jigspace" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55Y8wsPygSifBi3WJ9x_Bz26JygRwkJtVMw&s" title="Unity" alt="unity" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
