@@ -22,18 +22,17 @@
         <br />
         <p>
             <strong>
-               As a seasoned machine learning expert, cloud architect, and competitive coder, I've honed my skills across multiple domains, establishing myself as a versatile force in the tech world. With a wealth of Knowledge & Experience, I bring a unique blend of expertise to every project I undertake.
+As a passionate and results-driven Machine Learning Engineer, I specialize in building production-grade AI systems and scalable cloud solutions. My expertise lies at the intersection of machine learning, software engineering, and competitive problem-solving.
 
-Proficient in languages such as Python, Java, C#, C++, Kotlin and Dart empowers me to tackle diverse programming challenges. Leveraging frameworks like Flutter,Django,Flask, NLTk, Dash and Pandas.
-My proficiency in machine learning allows me to unravel complex data patterns and derive valuable insights, while my prowess as a cloud architect ensures scalable, efficient, and secure solutions. As a competitive coder, I thrive in high-pressure environments, leveraging my problem-solving skills to deliver optimal solutions under tight deadlines.
+Proficient in languages such as Python, C/C++, and Java, with familiarity in Go and C#, I enjoy tackling complex challenges. My experience spans across Machine Learning, Data Science, NLP, GenAI, and Cloud platforms like AWS and GCP. I'm also skilled in Deep Learning frameworks, Docker, and Git.
 
- With a comprehensive skill set and a relentless drive for excellence, I'm committed to pushing the boundaries of innovation, whether it's designing cutting-edge machine learning models, architecting robust cloud solutions, or excelling in competitive coding competitions.
+With a proven track record of success in national hackathons and a dedication to continuous learning, I am committed to pushing the boundaries of what's possible in AI and technology.
             </strong>
         </p>
         <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
         <ul>
-            <li>🔭🚀 <b>I’m currently working on</b>: AWS services like Athena and Sagemaker,Blockchain contracts and Few Research projects </li>
-            <li>🌱🧠 <b>I’m currently learning</b>: Cloud Simulation,CyberSecurity & Quantum Computing</li>
+            <li>🔭🚀 <b>I’m currently working on</b>: Developing production-grade RAG pipelines with vision models,AWS services and Few Research projects </li>
+            <li>🌱🧠 <b>I’m currently learning</b>: AR/VR prototyping, Cloud Simulation,CyberSecurity & Quantum Computing</li>
             <li>💬 <b>Ask me about</b>: Machine Learning Algorithms & Neural Networking, Software Development Operations and Competitive Programming.</li>
             <li>📫 <b>How to reach me</b>: Follow the links above to connect👆,or just raise a issue and join us in one of the discussions.</li>
             </li>
