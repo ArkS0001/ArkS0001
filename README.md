@@ -170,6 +170,19 @@ About Me = [
     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/a0da5195-b52c-4696-86df-7a6921596431" title="MetaSploit" alt="MetaSploit" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/22132f90-c38e-4627-9d0f-54695602399d" title="Parrot OS" alt="Parrot OS" width="40" height="40"/></a></code>&nbsp;
     <br><br>
+</div>
+<div align="center">
+    <h3><b>CyberSecurity Tools</b></h3>
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" title="VMware" alt="vmware" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://img-c.udemycdn.com/course/750x422/4142968_8c8d_3.jpg" title="Kali Linux" alt="kali linux" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://www.secuneus.com/wp-content/uploads/2021/01/metasplo-removebg-preview.png" title="Metasploitable" alt="metasploitable" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWJDGaaaPKKzzNZaX_yaz4g9sVqH5d_vk5w&s" title="John the Ripper" alt="john the ripper" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" title="SQLMap" alt="sqlmap" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDsIMwEubnS43MuXjzPzgFVJ1rGtiDFJjwg&s" title="Burpsuite" alt="burpsuite" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" title="Nikto" alt="nikto" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8999lWG_zOG4ASSELGWcQ-8KypZElap2-5A&s" title="Tor" alt="tor" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8rmaX32wHkf2jR5K1so8kryqX0h81I7Rpw&s" title="Wireshark" alt="wireshark" width="40" height="40"/></a></code>&nbsp;
+    <br><br>
     <br><br>
 </div>
 </div>
