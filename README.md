@@ -56,6 +56,7 @@ With a proven track record of success in national hackathons and a dedication to
     <li><a href="https://arks0001.medium.com/exploring-mesop-a-comprehensive-python-web-framework-beyond-streamlit-for-ai-and-ml-applications-78dd91c3d3ae">Exploring Mesop: A Comprehensive Python Web Framework Beyond Streamlit for AI and ML Applications</a></li>
     <li><a href="https://arks0001.medium.com/qwen-qwq-32b-whats-different-c3a53c400e33">Qwen/QwQ-32B vs GPT-O1 and Sonnet: What’s Different?</a></li>
     <li><a href="https://arks0001.medium.com/nvidia-triton-inference-server-d51e96df71f5">NVIDIA Triton Inference Server</a></li>
+    <li><a href="https://medium.com/@arks0001/genai-when-true-ai-f9e60097be21">GenAI WHEN ? True AI !</a></li>
 </ul>
 
 ```py
