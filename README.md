@@ -57,6 +57,7 @@ With a proven track record of success in national hackathons and a dedication to
     <li><a href="https://arks0001.medium.com/qwen-qwq-32b-whats-different-c3a53c400e33">Qwen/QwQ-32B vs GPT-O1 and Sonnet: What’s Different?</a></li>
     <li><a href="https://arks0001.medium.com/nvidia-triton-inference-server-d51e96df71f5">NVIDIA Triton Inference Server</a></li>
     <li><a href="https://medium.com/@arks0001/genai-when-true-ai-f9e60097be21">GenAI WHEN ? True AI !</a></li>
+    <li><a href="https://arks0001.medium.com/building-multi-tenant-platforms-system-design-patterns-used-by-modern-saas-companies-2f0e0f03ad8c">Building Multi-Tenant Platforms: System Design Patterns Used by Modern SaaS Companies</a></li>
 </ul>
 
 ```py
