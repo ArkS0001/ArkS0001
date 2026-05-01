@@ -25,7 +25,7 @@ With a proven track record of success in national hackathons and a dedication to
         </p>
         <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
         <ul>
-            <li>🔭🚀 <b>I’m currently working on</b>: Developing Digital Twins and AI Agents [Guardrails and Optimization] </li>
+            <li>🔭🚀 <b>I’m currently working on</b>: Developing Robots, Digital Twins and AI Agents [Guardrails and Optimization] </li>
             <li>🌱🧠 <b>I’m currently learning</b>: AR/VR prototyping, Cloud Simulation, CyberSecurity & Quantum Computing</li>
             <li>💬 <b>Ask me about</b>: Machine Learning Algorithms & Neural Networking, Software Development Operations and Competitive Programming.</li>
             <li>📫 <b>How to reach me</b>: Follow the links above to connect👆, or just raise a issue and join us in one of the discussions.</li>
