@@ -118,30 +118,30 @@ About Me =[
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![alt text](https://github-readme-stats.vercel.app/api?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 
-![alt text](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)
+![streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)
 
 <hr>
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
 <hr>
 
-![alt text](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=github-compact)
+![github activity](https://github-readme-activity-graph.vercel.app/graph?username=ArkS0001&theme=github-compact)
 
 <hr>
 
-![alt text](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)
+![Leetcode stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)
 
 <hr>
 </div>
 
-![alt text](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ArkS0001/ArkS0001/blob/output/github-contribution-grid-snake.svg)
 
-![alt text](https://visitcount.itsvg.in/api?id=ArkS0001&label=Visitors&icon=0&pretty=true)
+![High Visitor Traffic](https://visitcount.itsvg.in/api?id=ArkS0001&label=Visitors&icon=0&pretty=true)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
@@ -158,7 +158,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/80d9b131-ebe5-428f-98d5-f1c136bd59f6" height="500">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/1ac6f68b-ee08-42a5-81c0-ba8efe446025" height="500">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/80d9b131-ebe5-428f-98d5-f1c136bd59f6" width="300" height="500">&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/1ac6f68b-ee08-42a5-81c0-ba8efe446025" width="300" height="500">
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ArkS0001.png" alt="TryHackMe Badge">
 
