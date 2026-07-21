@@ -49,6 +49,7 @@ With a proven track record of success in national hackathons and a dedication to
     <li><a href="https://arks0001.medium.com/nvidia-triton-inference-server-d51e96df71f5">NVIDIA Triton Inference Server</a></li>
     <li><a href="https://medium.com/@arks0001/genai-when-true-ai-f9e60097be21">GenAI WHEN ? True AI !</a></li>
     <li><a href="https://arks0001.medium.com/building-multi-tenant-platforms-system-design-patterns-used-by-modern-saas-companies-2f0e0f03ad8c">Building Multi-Tenant Platforms: System Design Patterns Used by Modern SaaS Companies</a></li>
+    <li><a href="https://medium.com/@arks0001/sculpting-model-behavior-how-openai-anthropic-and-meta-alter-weights-and-activations-at-the-04f191b6d911">Feature Suppression</a></li>
 </ul>
 
 ```py
